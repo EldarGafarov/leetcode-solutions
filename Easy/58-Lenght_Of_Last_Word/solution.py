@@ -10,7 +10,6 @@ class Solution(object):
         return len(words[-1])
     
 
-
 #Solution 2: Using two pointers to traverse the string from the end and count the characters of the last word.
 # class Solution(object):
 #     def lengthOfLastWord(self, s):
